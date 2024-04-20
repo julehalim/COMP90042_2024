@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.20)  20 APR 2024 12:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.20)  20 APR 2024 13:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/julev/Desktop/acl-style-files-master/latex/acl_latex.tex
-(c:/Users/julev/Desktop/acl-style-files-master/latex/acl_latex.tex
+**c:/Users/julev/Desktop/COMP90042_2024/latex/acl_latex.tex
+(c:/Users/julev/Desktop/COMP90042_2024/latex/acl_latex.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
 (C:\Users\julev\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -504,12 +504,12 @@ Package rerunfilecheck Info: File `acl_latex.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  14383 strings out of 474424
- 234727 string characters out of 5741739
+ 234639 string characters out of 5741739
  1963496 words of memory out of 5000000
  36291 multiletter control sequences out of 15000+600000
  609794 words of font info for 216 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,10n,93p,1058b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,10n,93p,1050b,493s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\julev\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tctt1095.pk><C:/Users/julev/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb><C:/Users/julev/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/julev/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/julev/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/julev/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/julev/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/julev/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/julev/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/julev/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/julev/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/julev/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
 Output written on acl_latex.pdf (3 pages, 177846 bytes).
 PDF statistics:

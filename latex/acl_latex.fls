@@ -1,6 +1,6 @@
-PWD c:\Users\julev\Desktop\acl-style-files-master\latex
+PWD c:\Users\julev\Desktop\COMP90042_2024\latex
 INPUT C:\Users\julev\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\julev\Desktop\acl-style-files-master\latex\acl_latex.tex
+INPUT c:\Users\julev\Desktop\COMP90042_2024\latex\acl_latex.tex
 OUTPUT acl_latex.log
 INPUT C:\Users\julev\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\julev\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
