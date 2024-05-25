@@ -14,4 +14,4 @@ Our transformer model consists of two parts, the evidence retrieval (Transformer
 Bi-Directional LSTM
 -----
 
-Our bi-directional LSTM model file is called noah_COMP90042_Project_2024.ipynb.
+Our bi-directional LSTM model file for evidence retreival is called Bi_Directional_LSTM.ipynb.
