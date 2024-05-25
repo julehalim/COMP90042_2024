@@ -15,3 +15,8 @@ Bi-Directional LSTM
 -----
 
 Our bi-directional LSTM model file for evidence retreival is called Bi_Directional_LSTM.ipynb.
+
+Run
+----
+1. Install required packages before running the notebooks (keras, NLTK etc)
+2. Maybe need to change the path to the data files before opening the files
