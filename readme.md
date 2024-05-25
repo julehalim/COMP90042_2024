@@ -1,7 +1,7 @@
 Tue9am_Group6
 ===============
 
-Final Model (Bi-encoder + Sequential)
+Final Model (Bi-encoder + Sequential Model)
 ----------
 
 Our final, best performing model is the bi-encoder model for evidence retrieval and a sequential model for claim classification named Tue9am_Group6.ipynb. The log output for eval.py is outputted within the model's jupyter notebook itself.
