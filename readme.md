@@ -1,10 +1,10 @@
 Tue9am_Group6
 ===============
 
-Final Model
+Final Model (Bi-encoder + Sequential)
 ----------
 
-Our final, best performing model is the bi-encoder model for evidence retrieval and a sequential model for claim classification named Tue9am_Group6.ipynb.
+Our final, best performing model is the bi-encoder model for evidence retrieval and a sequential model for claim classification named Tue9am_Group6.ipynb. The log output for eval.py is outputted within the model's jupyter notebook itself.
 
 Transformer Model
 -----
@@ -15,7 +15,3 @@ Bi-Directional LSTM
 -----
 
 Our bi-directional LSTM model file is called noah_COMP90042_Project_2024.ipynb.
-
-Bi-encoder + Sequential
-----
-In Tue9am_Group6.ipynb, with results embedded in the notebook.
